@@ -1,0 +1,3 @@
+:host ::ng-deep .ant-menu  {
+    transition:background .3s,width .1s;
+  }
