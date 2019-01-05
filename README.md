@@ -1,7 +1,7 @@
 # NgZorroMenuAutoCollapse
 主要用来实现类似阿里云控制台鼠标摸上去自动显示菜单功能。
 
-![Demo](https://github.com/alexspring123/ng-zorro-menu-auto-collapse/image/Demo.gif)
+![Demo](https://github.com/alexspring123/ng-zorro-menu-auto-collapse/tree/master/image/Demo.gif)
 
 ## 主要设计方案
 1. 记录鼠标是否在主菜单上（mouseOnMenu），通过鼠标mouseover和mouseout事件实现
